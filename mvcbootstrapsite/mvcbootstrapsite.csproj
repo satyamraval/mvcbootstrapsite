@@ -305,6 +305,14 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Shared\Admin\" />
+    <Folder Include="Views\Shared\Public\Ads\" />
+    <Folder Include="Views\Shared\Public\Blogs\" />
+    <Folder Include="Views\Shared\Public\Home\" />
+    <Folder Include="Views\Shared\Public\Social\" />
+    <Folder Include="Views\Shared\Public\Stores\Amazon\" />
+    <Folder Include="Views\Shared\Public\Stores\Ebay\" />
+    <Folder Include="Views\Shared\Public\Stores\FlipKart\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
